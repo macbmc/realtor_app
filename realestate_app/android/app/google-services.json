@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73312966866",
+    "project_id": "realatorapp",
+    "storage_bucket": "realatorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73312966866:android:883e5f4c4ac18ac037f50b",
+        "android_client_info": {
+          "package_name": "com.example.realestate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73312966866-ckcdp4rj2pg1hkdncfk2nqc8rtm41cs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo63OOrH4WGGOTVGa5hpyWP9S3rj11EN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73312966866-ckcdp4rj2pg1hkdncfk2nqc8rtm41cs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
