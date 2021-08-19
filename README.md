@@ -21,7 +21,7 @@
      <B>Flutter<B>
      
      
-     ## Working of the project
+    <B><U><H2> Working of </H2></U></B>
 
 1. Basic Realestate app. You can login,create account and see the details of properties.You can view profile and mark favourites and see them on wishlist
 2.[https://www.loom.com/share/2ddde2c818254174ab819a42e268fb63]
